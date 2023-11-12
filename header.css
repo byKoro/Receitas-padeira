@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?família=Rubik:ital,wght@1.500; 1.900&display=swap');
+body { 
+    margin: 0;
+    background-color: #E3C5BB;
+}
+header {
+    background: linear-gradient(120deg, #DDA3B2, #FFADC6);
+    padding: 30px;
+}
+header>div {
+    color: #221D23;
+    font:  900 40px 'Rubik', sans-serif;
+    text-align: center;
+}
+main {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #DFE2CF;
+    width: 500px;
+    height: 800px;
+}
